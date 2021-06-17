@@ -1,0 +1,1 @@
+001 - pwd: mostra o diretorio atual
