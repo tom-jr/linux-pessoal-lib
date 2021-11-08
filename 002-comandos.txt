@@ -1,1 +1,2 @@
 001 - pwd: mostra o diretorio atual
+002 - chmod 777 -R arquivo/dir:  libera todas as permissões para aquele ddir/arquivo
